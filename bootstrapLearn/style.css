@@ -1,0 +1,12 @@
+.backcolor{
+    border: crimson solid;
+    /*background: #101010;*/
+}
+div{
+    padding: 2px;
+}
+
+#login-container{
+
+    display: inline-block;
+}
